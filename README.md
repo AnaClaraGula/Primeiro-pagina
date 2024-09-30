@@ -2,4 +2,5 @@
 ## Desenvolvido por
 ### Estudante Ana Clara :smiley:
 ** áreas afins: **
-### site desenvolvido em HTMNL e CSS
+#### Matemática :star:, Programação :calling:, Arte :art:, Biologia :herb:
+##### site desenvolvido em HTMNL e CSS
