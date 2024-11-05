@@ -1,6 +1,9 @@
-# Primeira pagina web
+## Primeira pagina web
 ## Desenvolvido por
 ### Estudante Ana Clara :smiley:
 ** áreas afins: **
-#### Matemática :star:, Programação :calling:, Arte :art:, Biologia :herb:
-##### site desenvolvido em HTMNL e CSS
+## :star: Matemática :star:,
+## :calling: Programação :calling:,
+## :art: Arte :art:,
+## :herb:Biologia :herb:
+## site desenvolvido em HTMNL e CSS
