@@ -5,5 +5,5 @@
 ## :star: Matemática :star:,
 ## :calling: Programação :calling:,
 ## :art: Arte :art:,
-## :herb:Biologia :herb:
+## :herb: Biologia :herb:
 ## site desenvolvido em HTMNL e CSS
